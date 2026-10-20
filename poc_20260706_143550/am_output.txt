@@ -1,0 +1,1 @@
+Starting: Intent { act=com.whatsapp.otp.OTP_RETRIEVED cmp=com.truecaller/.account.verification.whatsapp.WhatsAppOtpReceiverActivity (has extras) }

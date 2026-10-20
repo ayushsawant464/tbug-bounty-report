@@ -1,0 +1,1 @@
+07-06 14:35:59.636 I/ActivityTaskManager( 2423): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.truecaller/.ui.TruecallerInit bnds=[38,14][213,189] (has extras)} with LAUNCH_SINGLE_TOP from uid 10152 from pid 3487 callingPackage com.miui.home (BAL_ALLOW_VISIBLE_WINDOW) result code=0
